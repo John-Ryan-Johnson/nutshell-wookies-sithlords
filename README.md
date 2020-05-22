@@ -1,6 +1,6 @@
 # Nautilus-Explorer
 
-[Nautilus Explorer](https://nautilus-explorer.firebaseapp.com/)
+[Nautilus Explorer](https://nautilus-explorer-4b689.web.app)
 
 # Technologies Used
 
