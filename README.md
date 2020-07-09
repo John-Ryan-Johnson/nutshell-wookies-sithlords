@@ -55,7 +55,7 @@ Contributors:
 
  [Zachary Crumpton](https://github.com/ZacCrumpton)
 
- [John Johnson](https://github.com/John-Ryan-Johnson)
+ [John Johnson](https://github.com/John-Ryan-Johnson)(Species)
 
 
  # How To Run
